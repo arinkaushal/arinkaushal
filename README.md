@@ -1,16 +1,33 @@
-## Hi there 👋
+# 💫 Arin Kaushal
 
-<!--
-**arinkaushal/arinkaushal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm **Arin Kaushal**, a passionate and curious B.Tech Computer Science Engineering student (2nd Year), currently specializing in **Full Stack Web Development**. I’m deeply interested in building scalable web applications, contributing to open-source, and diving into the world of **Technology**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 **B.Tech CSE | 2nd Year**
+- 💻 Specializing in **Full Stack Web Development**
+- 🔐 Budding **Cybersecurity Enthusiast**
+- 🌱 Active **Open Source Contributor**
+- 🛠️ Currently working with **MERN stack**, REST APIs, and responsive UI/UX
+- 🌐 Learning clean code principles, Git workflows, and cloud deployment
+- ✨ Motto: _“Code. Break. Build. Repeat.”_
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, Tailwind CSS, React.js  
+- **Backend:** Node.js, Express.js, PHP  
+- **Database:** MongoDB, MySQL  
+- **Tools & Platforms:** Git, GitHub, VS Code, Postman, Netlify, Vercel
+
+---
+
+## 📫 Let's Connect
+- 📧 Email: [youremail@example.com]
+- 💼 LinkedIn: [linkedin.com/in/arinkaushal](https://linkedin.com/in/arinkaushal)
+- 🌐 Portfolio: [Coming Soon...]
+
+---
+
+> _“Always learning, always building.”_  
