@@ -25,7 +25,7 @@ Hi there! I'm **Arin Kaushal**, a passionate and curious B.Tech Computer Science
 
 ## 📫 Let's Connect
 - 📧 Email: [arinkaushal06@gmail.com]
-- 💼 LinkedIn: [linkedin.com/in/arinkaushal]()
+- 💼 LinkedIn: [www.linkedin.com/in/arin-kaushal-/]
 - 🌐 Portfolio: [Coming Soon...]
 
 ---
