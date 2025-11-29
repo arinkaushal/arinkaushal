@@ -5,7 +5,7 @@ Hi there! I'm **Arin Kaushal**, a passionate and curious B.Tech Computer Science
 ---
 
 ## 🚀 About Me
-- 🎓 **B.Tech CSE | 2nd Year**
+- 🎓 **B.Tech CSE | 3nd Year**
 - 💻 Specializing in **Full Stack Web Development**
 - 🔐 Budding **Cybersecurity Enthusiast**
 - 🌱 Active **Open Source Contributor**
