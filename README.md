@@ -1,6 +1,6 @@
 #  Arin Kaushal
 
-Hi there! I'm **Arin Kaushal**, a passionate and curious B.Tech Computer Science Engineering student (2nd Year), currently specializing in **Full Stack Web Development**. I’m deeply interested in building scalable web applications, contributing to open-source, and diving into the world of **Technology**.
+Hi there! I'm **Arin Kaushal**, a passionate and curious B.Tech Computer Science Engineering student (3nd Year), currently specializing in **Full Stack Web Development**. I’m deeply interested in building scalable web applications, contributing to open-source, and diving into the world of **Technology**.
 
 ---
 
